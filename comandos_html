@@ -1,0 +1,99 @@
+* preencher com comandos iniciais
+! + tab
+
+quebrar linhas no vscode
+exibir - alternar quebra de linha
+
+
+* paragrafos
+<p><\p>
+
+* titulos h1 a h6
+<h1><\h1>
+
+* quebra de palavras
+<wbr/>
+
+* quebra de palavras com hifenização 
+&shy;
+
+* espaços no texto
+&nbsp;
+
+* quebra linha
+<br/>
+
+* simbolos especiais
+&lt;        <
+&gt;        >
+&le;        >=
+&ge;        <=
+
+&pound;     libras
+&yen;       yene
+&euro;      euro
+
+&copy;      copyright
+&reg;       marca registrada
+&trade;     trade mark
+
+&permil;    símbolo permil
+&sum;       soma
+&infin;     infinito
+&times;     multiplicação
+&plusmn;    mais ou menos
+&plus;      mais dentro de circunferencia
+&radic;     raiz quadrada
+&ne;        diferente (none equal)
+
+&delta;     delta minusculo (para maiusculo muda letra D)
+&lambda;    lambda
+&omega;     omega
+&phi;       fi
+
+&larr;      seta esquerda
+&rarr;      seta direita
+&uarr;      seta cima
+&darr;      seta abaixo
+&harr;      seta dois lados
+(primeira letra maiuscula sai seta diferente)
+
+&spades;
+&clubs;
+&hearts;
+&diams;
+nipes baralho
+
+* ênfase (outro tipo de italico)
+<em></em>
+
+
+* texto riscado
+<del></del>
+
+ou no css:
+<span style="text-decoration: line-trough;"></span>
+
+* para sublinhar (css)
+<span style="text-decoration: underline;"></span>
+
+* linha acima (css)
+<span style="text-decoration: overline;"></span>
+
+alinhamento de texto (css)
+exemplo: 
+<h2 style="text-align: center;" (centralizado)
+<h2 style="text-align: left;" (padrão)
+<h2 style="text-align: right;" (direita)
+<h2 style="text-align: justify;"
+
+
+
+
+
+
+
+
+
+
+ 
